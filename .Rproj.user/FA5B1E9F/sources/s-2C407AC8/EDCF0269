@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584767356766.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1635068968",
+    "id" : "EDCF0269",
+    "lastKnownWriteTime" : 1584823853,
+    "last_content_update" : 1584823853139,
+    "path" : "~/Dropbox/Projects/rpackages/priorbustr/R/gammabustr.R",
+    "project_path" : "R/gammabustr.R",
+    "properties" : {
+        "cursorPosition" : "41,0",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
